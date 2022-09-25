@@ -1,0 +1,6 @@
+import time
+import chardet
+
+if __name__ == "__main__":
+    
+    print(time.ctime(time.time()))

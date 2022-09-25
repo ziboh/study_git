@@ -40,3 +40,8 @@ for x in range(1,row+1):
 
 for x in range(1,row+1):
     print(" "*(row-x)+"*"*(2*x-1))
+    
+    
+    
+if __name__ == "__main__":
+    pass
